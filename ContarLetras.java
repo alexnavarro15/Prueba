@@ -9,6 +9,12 @@ public class ContarLetras {
 		// TODO Auto-generated constructor stub
 	}
 	
+	
+	/**
+	 * Cuenta letras especificas de una cadena
+	 * @param   cadena   la cadena que va a ser contada .
+	 * @return  letra	 letra dentro de la cadena sobre la que se cuenta.
+	 */
 	public int contarLetras(String cadena, char letra)
 	{
 		int i=0;
