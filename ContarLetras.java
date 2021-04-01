@@ -1,3 +1,7 @@
+/**
+ * @author  Alejandro Navarro
+ * @version 1.0
+ */
 
 public class ContarLetras {
 
